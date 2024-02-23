@@ -41,7 +41,7 @@
 <a href="https://www.syedammarilyas.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.syedammarilyas.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/syedammarilyas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-syedammarilyas-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/syedammarilyas/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-syedammarilyas-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:syedammarilyas@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-syedammarilyas@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a ></a>
 </p>
 
 ------
