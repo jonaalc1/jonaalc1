@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Msc Business Informatics-University of Mannheim, Bsc Computer Science-National University of Computer & Emerging Sciences.
-- 💼 &nbsp; SunExpress-Lufthansa, SAP, University of Mannheim, Touchstone Communications.
-- 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
-- 🍭 &nbsp; Gardening, working out and fragrances as hobbies.
+- 🤔 &nbsp; 
+- 🎓 &nbsp; 
+- 💼 &nbsp; 
+- 💭 &nbsp; 
+- 🍭 &nbsp; 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -45,6 +45,6 @@
 </p>
 
 ------
-Credits: [MrStanDu33](https://github.com/MrStanDu33)
+
 
 Last Edited on: 29/12/2020
