@@ -10,16 +10,14 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻  
-- 🌐 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+- 💻  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+- 🌐 
 
-- 💳 &nbsp;  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/wordpress-ar21.svg"> </code>, Woocommmerce, Shopify
+- 💳 
 - 🛢 &nbsp;
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>,<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
  ,SQL server
-- ⚙️ &nbsp;
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
+- ⚙️ 
 - 🔧 &nbsp;
  ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7) Atom, Anaconda
 - 🎨 &nbsp;
