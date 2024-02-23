@@ -19,7 +19,7 @@
  
 - ⚙️ 
 - 🔧 &nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7) Atom, Anaconda
+ ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7) 
 - 🎨 &nbsp;
  
 
